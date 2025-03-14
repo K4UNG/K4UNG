@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaung Zin Hein</h1>
-<h3 align="center">An aspiring developer from Myanmar</h3>
-
-- 🌱 I’m currently learning **Full Stack development**
-
-- 👨‍💻 All of my projects are available at [https://kaungzinhein.vercel.app/](https://kaungzinhein.vercel.app/)
-
-- 📝 I regularly write articles on [https://kaungzinhein.vercel.app/blog](https://kaungzinhein.vercel.app/blog)
+<h3 align="center">Full Stack developer from Myanmar</h3>
 
 - 📫 How to reach me **kgzinhein.my@gmail.com**
 
-- ⚡ Fun fact **I can solve a 3x3 Rubik's cube in 15 seconds**
+- ⚡ Fun fact **I can solve a 3x3 Rubik's cube in 10 seconds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
